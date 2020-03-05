@@ -10,11 +10,11 @@ int main()
 
 {
 
-   redLED = 1;
+    redLED = 1;
 
-   greenLED = 1;
+    greenLED = 1;
 
-   while (true) {
+    while (true) {
 
         for(int i=0; i<6; ++i) { //blink for 10 times
 
